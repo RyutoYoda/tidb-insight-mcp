@@ -1,4 +1,4 @@
-￥#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 TiDB Custom MCP Server
 Provides tools for interacting with TiDB database
